@@ -1,0 +1,20 @@
+{
+  "name": "buddy-plugins",
+  "owner": {
+    "name": "Buddy"
+  },
+  "metadata": {
+    "description": "Plugin marketplace with MCP integrations for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "clickup-mcp",
+      "source": "./plugins/clickup-mcp",
+      "description": "ClickUp MCP integration for task and project management",
+      "version": "1.0.0",
+      "category": "integrations",
+      "keywords": ["mcp", "clickup", "tasks", "projects"]
+    }
+  ]
+}

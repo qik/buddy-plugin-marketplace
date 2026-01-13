@@ -1,0 +1,6 @@
+{
+  "clickup": {
+    "type": "http",
+    "url": "https://www-clickup-mcp-clickup-mcp-beta.eu-1.agent-sls.net/mcp"
+  }
+}
