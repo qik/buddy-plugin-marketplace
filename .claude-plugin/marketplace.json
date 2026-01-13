@@ -12,7 +12,7 @@
       "name": "clickup",
       "source": "./plugins/clickup",
       "description": "ClickUp integration for task and project management",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "integrations",
       "keywords": ["clickup", "tasks", "projects"]
     }
