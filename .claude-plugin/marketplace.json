@@ -9,12 +9,12 @@
   },
   "plugins": [
     {
-      "name": "clickup-mcp",
-      "source": "./plugins/clickup-mcp",
-      "description": "ClickUp MCP integration for task and project management",
+      "name": "clickup",
+      "source": "./plugins/clickup",
+      "description": "ClickUp integration for task and project management",
       "version": "1.0.0",
       "category": "integrations",
-      "keywords": ["mcp", "clickup", "tasks", "projects"]
+      "keywords": ["clickup", "tasks", "projects"]
     }
   ]
 }
